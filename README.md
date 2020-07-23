@@ -24,7 +24,7 @@ The front end looks as follows:
 
 On start             |  GET request             |  POST request
 :-------------------------:|:-------------------------:|:-------------------------:
-![](00_Documentation/Screenshot_20200723-135016_Kotlin REST API.jpg) |  ![](00_Documentation/Screenshot_20200723-135057_Kotlin REST API.jpg) |   ![](00_Documentation/Screenshot_20200723-135104_Kotlin REST API.jpg)
+![](00_Documentation/Screenshot_20200723-135016_Kotlin_REST_API.jpg) |  ![](00_Documentation/Screenshot_20200723-135057_Kotlin_REST_API.jpg) |   ![](00_Documentation/Screenshot_20200723-135104_Kotlin_REST_API.jpg)
 
 ## Security
 This is a demo project which cannot be claimed to be secure as is. Additional 
